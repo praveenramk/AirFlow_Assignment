@@ -228,7 +228,7 @@ Results are saved in `/tmp/mnist_results/`:
 - `evaluation_results.json` - Detailed metrics for all models
 - `final_report.txt` - Human-readable summary report
 
-### Sample Output
+### Output
 
 ```
 Model Performance on Test Set:
@@ -257,3 +257,5 @@ BEST MODEL: CNN
 Test Accuracy: 0.9923
 ==============================
 ```
+
+<img width="1899" height="700" alt="image" src="https://github.com/user-attachments/assets/597a7333-ad24-469a-bacc-b56c4eee4b4d" />
